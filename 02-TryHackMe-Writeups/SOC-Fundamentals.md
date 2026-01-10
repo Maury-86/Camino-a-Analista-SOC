@@ -59,7 +59,7 @@ Para investigar una alerta, el Analista Tier 1 debe responder:
 * **Análisis:** Se identificó que el monitoreo proactivo reduce el "Dwell Time" (tiempo de permanencia del atacante).
 
 ## 🔗 Conexión con mi Biblioteca Teórica
-Este módulo se conecta con el concepto de **"Defensa en Profundidad"**, ya que el SOC monitorea capas físicas, de red y de host para detectar intrusiones.
+[Defensa en Profundidad](../03-Bibliografia-Teorica/Defensa-en-Profundidad.md)
 
 ## 🏁 Resultado del Laboratorio Práctico
 * **Actividad:** Port Scanning.
