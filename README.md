@@ -1,6 +1,6 @@
 # 🛡️ Camino a Analista SOC (Junior SOC Analyst Path)
 
-> **Portafolio de Aprendizaje y Documentación Técnica** > *Autor: [Tu Nombre/Alias]* > *Estado: 🚀 En Progreso Activo*
+> **Portafolio de Aprendizaje y Documentación Técnica** > *Autor: [Mauricio Monsálvez/MauricioSec]* > *Estado: 🚀 En Progreso Activo*
 
 ---
 
